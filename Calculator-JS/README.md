@@ -3,5 +3,6 @@
 <p>This calculator can perform addition, substraction, multiplication and division operations with real numbers.<br>
 Entering any number otherthan real numbers will pop an alert message requesting you to refresh page and enter a real number. Also entering an operator different from +,-,* or / will pop up a warning message requesting to refresh page and use correct operator.
 
-##Created by Tijani Ridwanlahi
+## Created_by_Tijani_Ridwanlahi
 # Zuri_Cohort_2022
+## Happy_viewing 😊😊
