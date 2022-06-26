@@ -23,5 +23,5 @@ else{
     else if(operator !== '+' || operator !== '-' || operator !== '*' || operator !== '/'){
         alert('Error! Refresh page and enter required operator!');
     }
-    console.log(num1 + operator + num2 + ' = ' + result );
+    document.write(num1 + operator + num2 + ' = ' + result );
 }
